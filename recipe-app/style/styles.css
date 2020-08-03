@@ -1,0 +1,23 @@
+/* Edit Page */
+.ingredient-items ul {
+  list-style-type: none;
+  width: 40%;
+}
+
+.home {
+  font-size: 1.5rem;
+}
+
+#p-text .recipe-p-text {
+  font-size: 1.3rem;
+}
+
+/* Recipe page */
+
+#header p {
+  font-size: 1.5rem;
+}
+
+#main ul {
+  font-size: 1.3rem;
+}
